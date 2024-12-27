@@ -1,1 +1,1 @@
-# poc-ai-detector-demo
+# Demo de PoC AI Detector
